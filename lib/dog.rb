@@ -13,7 +13,5 @@ class Dog
     puts "Woof!"
   end
   
-  bark
-  
 end
 
